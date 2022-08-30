@@ -7,6 +7,5 @@
   "repository": "https://github.com/youliao/BooruApi",
   "website": "https://github.com/youliao/BooruApi",
   "success_url": "/",
-  },
   "stack": "container"
 }
